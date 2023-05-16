@@ -4,4 +4,4 @@ Repository for my classes in Data Analytics course by SmartBridge - Smart Intern
 
 
 
-[Class -1: Introduction]
+[Class -1: Introduction](https://github.com/ankitpriyadarshii/DataAnalytics_SmarBridge/blob/main/Class%201.txt)
