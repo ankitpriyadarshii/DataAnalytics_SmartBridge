@@ -1,5 +1,5 @@
 # DataAnalytics_SmarBridge
-Repository for my classes in Data Analytics course by SmartBridge - Smart Internz
+Repository for the classes in Data Analytics course by SmartBridge - Smart Internz
 ------------------------------------------------------------------------------------
 
 
