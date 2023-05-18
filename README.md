@@ -9,3 +9,5 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 [Class -2: Tableau, Database and MySQL Intro.](https://github.com/ankitpriyadarshii/DataAnalytics_SmarBridge/blob/main/Class%202.txt)
 
 [Class -3: Tableau Installation](https://github.com/ankitpriyadarshii/DataAnalytics_SmarBridge/blob/main/Class%203.txt)
+
+[Class -4: Tableau Cont.](https://github.com/ankitpriyadarshii/DataAnalytics_SmarBridge/blob/main/Class%204.txt)
