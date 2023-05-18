@@ -1,0 +1,38 @@
+Tableau Cont.
+
+Worksheet: A single sheet
+Workbook: Collection of Worksheets
+
+Alt + Shift + Bkcspc - Clear the sheet
+
+
+Data Visualisation
+-------------------
+
+-Graphical representation of information and data
+-By using visual elements like charts, graphs and maps
+-Data visualisation tools provide an accessible way to see and understand trends, outliers and pattern in data
+
+Advantage:
+-Easily sharing of information
+-Interactively explore opportunities
+-Visualise patterns and relationships
+
+
+In Whisker chart, point above whisker is called 'Outliers'
+
+
+Types of Basic Charts/Visualisation:
+Histograms
+Box plots
+Motion
+Pie
+Bar
+Line
+Bubble
+Scatter
+Tree
+Heat maps
+Maps
+Text table
+Highlighted table
