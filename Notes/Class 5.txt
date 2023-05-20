@@ -1,0 +1,17 @@
+Bullet graph: Compare 2 measures. Compare primary measure with one or more measures.
+
+Scatter plot: presents the lots of distinct data points on a singlel chart.
+
+Tree map: display data in nested rectangles. Different colors for diff. values.
+
+Heat map: compare data across two or more categories.
+
+Why use heat map, if tree map exists?
+Best when there lots of categories to compare.
+
+Maps: For geographic data. Show how location correlated with trends in data.
+Data source must contain location data (lattitude and longitude)
+
+* Choose the Country from where the location data is from in Edit Location section if it's showing unknown in the right corner.
+
+
