@@ -1,0 +1,44 @@
+Text Tables: Useful when display a number accosiated with one more dimension members.
+
+Highlight Table: Compare categorical data using color.
+
+
+
+
+Working with MetaData and Data Blending
+---------------------------------------
+
+
+Metadata: Information/data about data
+Data blending: Mixing/joining of Data sources
+
+Connecting to data source:
+-To tableau server
+-To a file
+-To a server
+-Saved data source
+
+
+Tableau Data Types:
+-Number - Decimal, Whole
+-Date and time
+-Date
+-String
+-Geographic role
+Can be changed depending on the use.
+
+
+Cubes and PDFs:
+-When data is grouped or combined in multidimensonal matrices called Data Cubes.
+-Bad idea to connect to a pdf
+
+
+Management of Metadata and Extracts:
+-Hide and unhide fields
+-Renaming a field (name won't change on data source, only in Data pane)
+-Creating and removing hierarchies fields (help in executing dril through capabilities)
+-Creating Folders (to make navigation easier)
+-Calculated field
+
+
+
