@@ -15,3 +15,5 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 [Class -5: Data Visualisation in Tableau](https://github.com/ankitpriyadarshii/DataAnalytics_SmarBridge/blob/main/Class%205.txt)
 
 [Class -6: Data Visualisation in Tableau cont., Working with Metadata](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%206.txt)
+
+[Class -7: Data Blending](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%207.txt)
