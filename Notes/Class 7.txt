@@ -1,0 +1,18 @@
+Data Extract: Extract specific data from data source for developing insights
+
+
+
+Data Blending
+--------------
+
+Data Preparations Joins-
+
+Types of joins in tableau:
+-Inner Join - data common in both
+-Left Join - entire from left and common from right
+-Right Join - entire from right and common from left
+-Full Outer join - joins both tables
+-Union combining - combines data tables row wise
+
+
+
