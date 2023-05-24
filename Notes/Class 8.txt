@@ -1,0 +1,48 @@
+Advance Data Manipulation
+-------------------------
+
+
+-Marks pane
+
+-Highlight: to highlight a field in a chart (from show height card option)
+
+-Group: set of multiple members combined in a single dimension to create higher category of dimension. Used to combine members present in a field.
+
+-Sets: custom fields used to hold the subsets of data based on given condition.
+--In/Out sets
+--Constant sets
+--Combined sets
+--Computed sets
+
+-Bins: containers of equal size that store data values correspondig to or fitting in bin size.
+
+-Formatting
+--Alighnement
+--Shading
+--Borders
+
+-Editing Axis
+
+-Annotations: shows the lables in highlighted manner
+
+
+
+Working with Filter
+--------------------
+
+Filter individual views or entire daat source based on dimension, measures or sets.
+Useful way to see only the data you want to see.
+Filters are required to highlight any under
+
+
+Types of Tableau Filter-
+
+-Extract filter: to filter the extracted data from data source
+-Data source filter
+-Context filter
+-Dimension filter
+-Measure filter
+
+
+
+
