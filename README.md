@@ -19,3 +19,5 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 [Class -7: Data Blending](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%207.txt)
 
 [Class -8: Advance Data Manipulation, Working with Filters](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%208.txt)
+
+[Class -9: Working with Filters (contd.)](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%209.txt)
