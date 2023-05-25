@@ -1,0 +1,20 @@
+Working with Filters (contd.)
+----------------------------
+
+
+-Extract filter: applied at data source level. When we upload the data
+
+-Data source filter: used to filter in the data source proportion. No .hyper file will be saved in the local system unlike Extract filter.
+
+-Context filter: Normal filters are independent of each other, but we might need multiple filters and want the second filter to process only the records returned by first filter. Dependent filter.
+Context filter improves performance and creates a dependent numerical or top N filter.
+
+-Dimension filter: Non-aggreagated filter. 
+
+-Measure filter: allow to perform various operations like sum, avg, medain, etc.
+Aggreagted filters are always applied after Non-aggregated filters.
+
+
+
+
+
