@@ -21,3 +21,5 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 [Class -8: Advance Data Manipulation, Working with Filters](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%208.txt)
 
 [Class -9: Working with Filters (contd.)](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%209.txt)
+
+[Class -12: DashBoards and Stories in Tableau](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2012.txt)
