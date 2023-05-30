@@ -1,0 +1,61 @@
+DashBoard
+---------
+
+Collection of different kind of visualisation or views that we create on Tableau.
+We can bring together diff. element og multiple worksheets and put them on a single dashboard
+
+
+
+The Dashboard Pane
+...................
+It contains:
+-Size settings for the dashboard screen
+-All the worksheets
+-Different formatting and beautifying objects for adding extra details to the dashboard.
+
+Tilted- can fit 2-3 visualisations
+Floating- can fit any number of visualisations. (Recommended)
+
+In Objects section -> Navigation: we can use it to connect dashboards
+
+
+
+
+Story
+------
+
+Need for creating a story?
+A visual narrative to connect all the visualisation which can help in understanding the story of the Data.
+
+
+The Story Pane
+..............
+It contains:
+-Story point (to create new or use duplicates)
+-Size option
+-Different visualisations
+
+The Layout section:
+Caption box- to write the story in the boxes
+Numbers-numbering of the visualisation representing scenes in the  stroy
+Dots- instead of numbers, we can also get dots
+Arrows- arrow representing next/prev scenes
+
+
+
+------------------------
+For publishing dashboard:
+server: https://public.tableau.com
+Sign in to tableau public account
+
+To share with someone:
+Go to share option in Tableau public story page
+Copy the 'link'
+Share it
+
+* Before publishing in tableau server, use the Extract connection instead of Live in data source
+------------------------
+
+
+
+
