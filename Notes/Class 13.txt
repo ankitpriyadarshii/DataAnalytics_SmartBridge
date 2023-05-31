@@ -1,0 +1,46 @@
+Tableau Web Application using Flask
+------------------------------------
+
+Bootstrap
+.........
+
+CSS Framework
+
+
+For Free Bootstrap templates
+bootstrapmade.com
+
+
+Steps:-
+
+1. Extract the downloaded Bootstrap template zip file
+2. Open the folder in VS Code
+3. Open index.html
+4. Change the headings in the display page of index suitable for the project we are making
+5. Edit the html page according to the needs of the project
+6. To embedd the dashboard in the html file
+	Go to dashboard
+	Publish the dashboard on Tableau Public
+		Go to share option 
+		Server: public.tableau.com
+		Sign in
+		Publish
+	Open the published dashboard in Tableau public
+	Click on share option 
+	Copy the Embed Code
+	Go back to VS Code
+	In About section of html file, paste the Embed code
+	
+7. Similarly Embed the story too
+
+
+
+
+Flask
+......
+
+Lightweight python micro web framework
+
+To install Flask library
+
+-- pip install flask
