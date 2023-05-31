@@ -24,4 +24,4 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 
 [Class -12: DashBoards and Stories in Tableau](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2012.txt)
 
-[Class -13: Tableau Website using Bootstrap and Flask](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2013.txt)
+[Class -13: Tableau WebApp using Bootstrap and Flask](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2013.txt)
