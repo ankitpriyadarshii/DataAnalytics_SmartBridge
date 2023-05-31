@@ -23,3 +23,5 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 [Class -9: Working with Filters (contd.)](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%209.txt)
 
 [Class -12: DashBoards and Stories in Tableau](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2012.txt)
+
+[Class -13: Tableau Website using Bootstrap and Flask](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2013.txt)
