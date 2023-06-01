@@ -1,0 +1,32 @@
+Parameters in Tableau
+---------------------
+
+Allow to use aggregate values that aren't available in data and incorporate these values into dashboard reports.
+Value passes to a prog in order to customise the prog for particular purpose
+
+
+1. Top N parameter
+2. Date field parameter
+3. Dynamic Dimension parameter
+4. Dynamic Measure parameter
+5. Dynamic Dimension and Measure parameter
+6. Reference Line parameter
+7. Sets/Filter/Group (also a type of parameter)
+
+
+
+Code for writing Date_Parameter Calculated field:
+
+CASE [Date Parameter ]
+
+WHEN "Year" THEN STR(YEAR([Order Date]))
+
+WHEN "Quarter" THEN STR(YEAR([Order Date]))+"/Q"+ DATENAME('quarter', [Order Date])
+
+WHEN "Month" THEN DATENAME('month',[Order Date])+""+STR(YEAR([Order Date]))
+
+WHEN "Week" THEN "Week" + STR(DATEPART('week',[Order Date]))
+
+WHEN "Day" THEN STR(DATE([Order Date]))
+
+END
