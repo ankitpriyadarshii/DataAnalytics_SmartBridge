@@ -1,0 +1,9 @@
+Actions in Dashboard
+---------------------
+
+
+Dashboard -> Actions
+
+We can apply filters, URLs, Go to sheets...
+It can be done using Hovering, Selections, Menu bar..
+
