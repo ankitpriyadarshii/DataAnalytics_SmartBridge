@@ -1,0 +1,37 @@
+Tableau WebApp using Flask (cont.)
+----------------------------------
+
+
+Download free bootstrap template
+Create 2 folders -> template, static
+
+
+Bootstrap template will contain html files and some folders.
+
+In template folder: all the html files
+In static folder: assets and form folder
+
+Open the main folder in VS code
+Open 'app.py' file
+
+change the path for 'href' and 'src' in index.html file
+Brefore: assets/img/...
+After: ststic/assets/img...
+
+
+
+IBM Cognos Analytics
+--------------------
+
+Web based BI tool
+No need to download anything
+
+Web based BI tool for web-based reporting and analytics
+Prime focus in area of Descriptive Analytics (what happened?)
+
+
+SignUp link: https://www.ibm.com/account/reg/us-en/signup?formid=urx-47688
+
+
+New Exploration -> Add dataset -> Save -> click create -> choose the type
+
