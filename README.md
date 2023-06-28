@@ -1,5 +1,5 @@
 # DataAnalytics_SmarBridge
-Repository for the classes in Data Analytics course by SmartBridge - Smart Internz
+Repository for the classes and Team Project in Data Analytics course by SmartBridge - Smart Internz
 ------------------------------------------------------------------------------------
 
 
