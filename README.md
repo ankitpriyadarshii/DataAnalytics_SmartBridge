@@ -31,3 +31,5 @@ Repository for the classes in Data Analytics course by SmartBridge - Smart Inter
 [Class -15: Actions in Tableau](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2015.txt)
 
 [Class -16: Tableau WebApp using Flask(cont.), IBM Cognos](https://github.com/ankitpriyadarshii/DataAnalytics_SmartBridge/blob/main/Notes/Class%2016.txt)
+
+[FINAL TEAM PROJECT](https://github.com/ankitpriyadarshii/SmartBridge_Project/tree/main)
